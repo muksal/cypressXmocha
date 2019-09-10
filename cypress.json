@@ -1,0 +1,5 @@
+{
+  "env": {
+    "stg": "https://www.facebook.com/login/"
+  }
+}
